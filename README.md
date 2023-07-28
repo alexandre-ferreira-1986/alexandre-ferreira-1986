@@ -38,4 +38,4 @@
 
 ###
 
- ![Snake animation](https://github.com/alexandre-ferreira-1986/alexandre-ferreira-1986/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/alexandre-ferreira-1986/alexandre-ferreira-1986/blob/output/github-contribution-grid-snake.svg)-->
