@@ -16,7 +16,6 @@ I build solutions that transform data and business problems into **useful, scala
 - 🤖 Artificial Intelligence & Generative AI
 - 🧠 AI Agents, RAG & LLM Applications
 - 📈 Power BI, SQL & Data Visualization
-- ☕ Java Developer
 - ⚙️ Automation & Process Optimization
 - 🌎 Based in Brazil
 
